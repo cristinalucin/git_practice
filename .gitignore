@@ -1,2 +1,4 @@
 secrets.txt
 moresecrets.txt
+env.py
+*.pickle
